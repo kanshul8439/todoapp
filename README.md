@@ -1,6 +1,17 @@
 # todo
 
-A new Flutter project.
+#A new Flutter project.
+#For creating a todo:
+----> + button on bottom right
+
+#For reading a todo:
+----> after login or registration task list will automatically appear
+
+#for checkign off a task
+----> check box
+
+#for removing a task
+----> long press on task.
 
 ## Getting Started
 
